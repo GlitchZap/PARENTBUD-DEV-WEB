@@ -135,6 +135,7 @@ const Footer = () => {
           <h2 className="text-[clamp(4rem,15vw,14rem)] font-outfit font-extrabold text-white leading-[0.85] tracking-tighter select-none pb-4">
             <span style={{ color: '#E77076' }}>Parent</span>
             <span style={{ color: '#416E9A' }}>Bud</span>
+            <span style={{ color: '#FAF9F6' }}>.</span>
           </h2>
         </motion.div>
       </div>
