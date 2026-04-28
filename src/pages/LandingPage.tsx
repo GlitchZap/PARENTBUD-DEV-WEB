@@ -235,8 +235,10 @@ const LandingPage = () => {
               Now live on the App Store
             </div>
             <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold tracking-tight text-white font-outfit leading-[1.1]">
-              Because kids don't come with{' '}
-              <span className="text-transparent bg-clip-text bg-gradient-to-r from-rose-400 via-pink-300 to-purple-500">manuals.</span>
+              Because every{' '}
+              <span className="text-[#2c173f]">little</span>
+              <br />
+              thing <span className="text-[#2c173f]">matters</span>.
             </h1>
             <p className="mt-6 text-lg sm:text-xl text-slate-300/90 max-w-xl mx-auto lg:mx-0 leading-relaxed">
               Personalized, pressure-free parenting support — right when you need it. Built around your child's age and your real-life moments.
