@@ -236,9 +236,9 @@ const LandingPage = () => {
             </div>
             <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold tracking-tight text-white font-outfit leading-[1.1]">
               Because every{' '}
-              <span className="text-[#624073]">little</span>
+              <span className="text-[#2a2140]">little</span>
               <br />
-              thing <span className="text-[#624073]">matters</span>.
+              thing <span className="text-[#2a2140]">matters</span>.
             </h1>
             <p className="mt-6 text-lg sm:text-xl text-slate-300/90 max-w-xl mx-auto lg:mx-0 leading-relaxed">
               Personalized, pressure-free parenting support — right when you need it. Built around your child's age and your real-life moments.
