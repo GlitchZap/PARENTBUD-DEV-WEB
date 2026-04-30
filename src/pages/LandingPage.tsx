@@ -391,7 +391,7 @@ const LandingPage = () => {
           <div className="text-center mb-16">
             <motion.p variants={fadeUp} custom={0} className="text-sm font-semibold uppercase tracking-widest text-amber-400 mb-4">Our Team</motion.p>
             <motion.h2 variants={fadeUp} custom={1} className="text-3xl sm:text-4xl lg:text-5xl font-bold text-white font-outfit tracking-tight">Built with care.</motion.h2>
-            <motion.p variants={fadeUp} custom={2} className="mt-4 text-lg text-slate-400 max-w-xl mx-auto">The people behind ParentBud — passionate about making parenting a little easier.</motion.p>
+            <motion.p variants={fadeUp} custom={2} className="mt-4 text-lg text-slate-400 max-w-xl mx-auto">The people behind ParentBud, passionate about making parenting a little easier.</motion.p>
           </div>
 
           {/* Developers */}
@@ -468,7 +468,7 @@ const LandingPage = () => {
           </motion.h2>
           <motion.p initial={{ opacity: 0, y: 20 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true }} transition={{ delay: 0.1 }}
             className="mt-6 text-lg text-white/70 max-w-xl mx-auto">
-            Download ParentBud today and find your flow — because you're already doing an amazing job.
+            Download ParentBud today and find your flow because you're already doing an amazing job.
           </motion.p>
           <motion.div initial={{ opacity: 0, y: 20 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true }} transition={{ delay: 0.2 }} className="mt-10 inline-block">
             <LinkPreview url={APP_STORE_URL} className="no-underline">
